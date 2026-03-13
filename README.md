@@ -112,8 +112,6 @@ jupyter notebook "files FPro analysis/"
 #    NB02 must complete before NB03 (it exports the model file)
 ```
 
-**Note:** NB02 Section 11 must be run before NB03 to produce `fpro_nutrition_models_10feat.joblib`.
-
 ---
 
 ## Technical Details
