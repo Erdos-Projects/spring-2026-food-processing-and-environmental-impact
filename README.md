@@ -1,7 +1,15 @@
 # spring-2026-food-processing-and-environmental-impact
-Team project: spring-2026-food-processing-and-environmental-impact
+# Team members: 
+
+[Yujia Teng](https://github.com/yujia-teng)
+
+[Pranava Chaitanya Jayanti](https://github.com/pcjayanti)
+
+[Elif Yegenoglu](https://github.com/elifyegenoglu1)
+
 # Predicting Food Processing and Environmental Impact from Nutrition Labels
 ---
+
 
 ## Project Summary
 
