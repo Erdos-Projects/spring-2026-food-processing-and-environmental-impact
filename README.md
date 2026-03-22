@@ -36,11 +36,12 @@ nutrition/
 │   ├── 01_FPro_EDA_Ingredient_Analysis.ipynb   # EDA, price vs FPro, ingredient features
 │   ├── 02_Nutrition_FPro_Modeling.ipynb         # RF training, tuning, holdout evaluation, model export
 │   ├── 03_CIQUAL_Environmental_Analysis.ipynb   # CIQUAL transfer + Agribalyse environmental analysis
-|   ├── data_analysis Ciqual                     # CIQUAL data analysis
+|   └──  data_analysis Ciqual                     # CIQUAL data analysis
 │
 ├── Ciqual data/
 │   ├── Table Ciqual 2025_ENG_2025_11_03.xlsx   # 3,484 French reference foods
-│   └── agribalyse-31-detail-par-ingredient.csv # Agribalyse 3.1 (semicolon-separated)
+│   ├── agribalyse-31-detail-par-ingredient.csv # Agribalyse 3.1 (semicolon-separated)
+│   └── Table Ciqual 2025 doc ENG_2025_11_19.pdf # Instruction on data
 │
 ├── GroceryDB-main/
 │   └── data/
