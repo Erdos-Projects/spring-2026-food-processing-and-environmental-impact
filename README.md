@@ -93,7 +93,8 @@ nutrition/
 | [GroceryDB](https://github.com/Barabasi-Lab/GroceryDB/tree/main) | US grocery products with FPro scores | 50,468 products |
 | [CIQUAL 2025](https://ciqual.anses.fr/) | French food composition reference | 3,484 foods |
 | [Agribalyse 3.1](https://agribalyse.ademe.fr/) | French LCA environmental data | 6,161 ingredient rows |
-| [FoodProX / FoodProX paper](https://doi.org/10.1016/j.celrep.2022.110345) | FPro score source | — |
+| [FoodProX paper](https://www.nature.com/articles/s41467-023-37457-1) | FPro score source | — |
+| [NOVA Classification paper](https://www.sciencedirect.com/science/article/abs/pii/S0924224421004970) | NOVA Classes source | — |
 
 ---
 
