@@ -1,5 +1,5 @@
 # Executive Summary
-## Predicting Food Processing and Environmental Impact
+## Predicting Food Processing and Environmental Impact from Nutrition Labels
 **Erdős Institute Data Science Boot Camp 2026 · March 2026**
 
 ---
@@ -85,7 +85,6 @@ Some reasonable future directions of investigation include:
 | `files FPro analysis/01_FPro_EDA_Ingredient_Analysis.ipynb` | EDA, price analysis, ingredient feature engineering |
 | `files FPro analysis/02_Nutrition_FPro_Modeling.ipynb` | Model training, tuning, feature elimination, export |
 | `files FPro analysis/03_CIQUAL_Environmental_Analysis.ipynb` | CIQUAL transfer, Agribalyse merge, environmental correlations |
-| `files FPro analysis/models/fpro_nutrition_models_10feat.joblib` | Saved 10-feature Random Forest (regression + classification) |
 
 ---
 
