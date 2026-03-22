@@ -1,4 +1,4 @@
-# spring-2026-food-processing-and-environmental-impact
+# Predicting Food Processing and Environmental Impact from Nutrition Labels
 # Team members: 
 
 [Yujia Teng](https://github.com/yujia-teng)
@@ -7,7 +7,7 @@
 
 [Elif Yegenoglu](https://github.com/elifyegenoglu1)
 
-# Predicting Food Processing and Environmental Impact from Nutrition Labels
+
 ---
 
 
