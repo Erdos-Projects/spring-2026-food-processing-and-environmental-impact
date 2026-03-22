@@ -37,8 +37,6 @@ nutrition/
 │   ├── 02_Nutrition_FPro_Modeling.ipynb         # RF training, tuning, holdout evaluation, model export
 │   ├── 03_CIQUAL_Environmental_Analysis.ipynb   # CIQUAL transfer + Agribalyse environmental analysis
 |   ├── data_analysis Ciqual                     # CIQUAL data analysis
-│   ├── presentation.pptx                        # 5-minute final presentation (6 slides)
-│   └── nutrition_fpro_presentation.md           # Slide notes / speaker outline
 │
 ├── Ciqual data/
 │   ├── Table Ciqual 2025_ENG_2025_11_03.xlsx   # 3,484 French reference foods
@@ -49,8 +47,7 @@ nutrition/
 │       ├── GroceryDB_foods.csv          # 50,468 US products with FPro scores and nutrients
 │       ├── GroceryDB_data_uncurated.csv # 54,000 products with raw ingredient lists
 │       └── GroceryDB_IgFPro.csv         # 10,361 per-ingredient FPro scores
-│
-├── preliminary_analysis.py        # Phase 1: CIQUAL nutrient density regression
+├── presentation.pptx                    # 5-minute final presentation 
 ├── EXECUTIVE_SUMMARY.md           # One-page project summary
 └── README.md                      # This file
 ```
