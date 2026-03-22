@@ -31,6 +31,12 @@ The trained model was then applied (without further retraining) to [**CIQUAL 202
 
 ---
 
+### Final Model Choice
+
+We tuned the hyperparameters for 3 models (Ridge/Logistic Regression, Random Forest, and Gradient Boost), and compared their performances. We found that RF and GB were both equally good, and decided to choose RF because it is faster to train, more robust with noisy datasets, and less prone to overfitting.
+
+---
+
 ### Principal Findings
 
 **1. Nutrition labels closely reproduce FPro (R² = 0.973)**
@@ -55,6 +61,23 @@ Among the 659 CIQUAL foods matched to Agribalyse data, correlation between predi
 
 ---
 
+### Limitations
+
+- 10-feature model excludes Vitamin A and Vitamin C to avoid imputation bias
+- ~29% Agribalyse coverage limits the environmental analysis representativeness
+- FPro cross-cultural transfer involves domain shift from US to French food context
+- Environmental footprint confounded by food category (cannot isolate processing effect alone)
+
+---
+
+### Next steps
+
+Some reasonable future directions of investigation include:
+- Linking food processing scores directly to health outcomes
+- Effects of different popular diets on the environment and human health
+
+---
+
 ### Notebooks and Outputs
 
 | File | Contents |
@@ -63,7 +86,6 @@ Among the 659 CIQUAL foods matched to Agribalyse data, correlation between predi
 | `files FPro analysis/02_Nutrition_FPro_Modeling.ipynb` | Model training, tuning, feature elimination, export |
 | `files FPro analysis/03_CIQUAL_Environmental_Analysis.ipynb` | CIQUAL transfer, Agribalyse merge, environmental correlations |
 | `files FPro analysis/models/fpro_nutrition_models_10feat.joblib` | Saved 10-feature Random Forest (regression + classification) |
-| `files FPro analysis/presentation.pptx` | 5-minute final presentation (6 slides) |
 
 ---
 
