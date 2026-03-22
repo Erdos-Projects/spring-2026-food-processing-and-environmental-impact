@@ -48,7 +48,8 @@ nutrition/
 │       ├── GroceryDB_foods.csv          # 50,468 US products with FPro scores and nutrients
 │       ├── GroceryDB_data_uncurated.csv # 54,000 products with raw ingredient lists
 │       └── GroceryDB_IgFPro.csv         # 10,361 per-ingredient FPro scores
-├── presentation.pptx                    # 5-minute final presentation 
+├── presentation.pdf                    # 5-minute final presentation
+├── EXECUTIVE_SUMMARY.pdf           # One-page project summary
 ├── EXECUTIVE_SUMMARY.md           # One-page project summary
 └── README.md                      # This file
 ```
