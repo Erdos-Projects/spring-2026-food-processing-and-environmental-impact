@@ -38,9 +38,6 @@ nutrition/
 │   ├── 03_CIQUAL_Environmental_Analysis.ipynb   # CIQUAL transfer + Agribalyse environmental analysis
 │   ├── presentation.pptx                        # 5-minute final presentation (6 slides)
 │   ├── nutrition_fpro_presentation.md           # Slide notes / speaker outline
-│   └── models/
-│       ├── fpro_nutrition_models.joblib         # 12-feature model
-│       └── fpro_nutrition_models_10feat.joblib  # 10-feature portable model (used for CIQUAL)
 │
 ├── Ciqual data/
 │   ├── Table Ciqual 2025_ENG_2025_11_03.xlsx   # 3,484 French reference foods
